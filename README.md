@@ -1,18 +1,16 @@
 # R3F + Koota Starter
 
 
-[Live Example](https://codesandbox.io/p/github/Ctrlmonster/r3f-koota-starter/main)
-
-This is a simple **starter example** for how to use [Koota](https://github.com/pmndrs/koota) with react three fiber.
+This is a simple **starter example** using [Koota](https://github.com/pmndrs/koota) with `BatchedMesh`.
 
 
 **Koota** is a brand new ecs library by **pmndrs**. Designed for highly dynamic realtime apps (i.e. games).
 While the library is mostly finished, expect some small changes to happen.
 This example shows how to create a world, a basic systems schedule, spawn entities with Traits (ecs components)
-and connecting the simulation back to r3f/three.
+and connecting the simulation back to r3f/three. This time using the mostly imperative BatchedMesh api.
 
 
-![screenshot](./screenshot.png)
+![b-koota.png](screenshot.png)
 
 
 ## Getting Started
