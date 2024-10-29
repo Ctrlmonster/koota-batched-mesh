@@ -1,5 +1,6 @@
 # BatchedMesh + Koota Starter
 
+👉 Check out the [Live Demo](https://codesandbox.io/p/github/Ctrlmonster/koota-batched-mesh/master)
 
 This is a simple **starter example** using [Koota](https://github.com/pmndrs/koota) with `BatchedMesh`.
 
