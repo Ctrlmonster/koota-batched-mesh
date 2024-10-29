@@ -11,7 +11,7 @@ This example shows how to create a world, a basic systems schedule, spawn entiti
 and connecting the simulation back to r3f/three. This time using the mostly imperative BatchedMesh api.
 
 
-![b-koota.png](_screenshot.png)
+![_screenshot.png](_screenshot.png)
 
 
 ## Getting Started
