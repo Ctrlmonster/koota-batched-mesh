@@ -1,4 +1,4 @@
-# R3F + Koota Starter
+# BatchedMesh + Koota Starter
 
 
 This is a simple **starter example** using [Koota](https://github.com/pmndrs/koota) with `BatchedMesh`.
